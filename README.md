@@ -106,6 +106,8 @@ Available themes: `white`, `g10`, `g90`, `g100`.
 
 This is an experiment, not a production design system package. It exists to answer the question: **can AI generate a usable React component layer from a non-React design system, good enough for Figma Make prototyping?**
 
+See [WORKFLOW.md](./WORKFLOW.md) for the full generation methodology — how tokens were extracted, how components were prompted and verified, how guidelines were structured, and how to reproduce this workflow for a different design system.
+
 The source Carbon repo is at [`carbon-design-system/carbon`](https://github.com/carbon-design-system/carbon). This project is not affiliated with or endorsed by IBM.
 
 ## License
